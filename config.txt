@@ -1,0 +1,7 @@
+Run_mode|account
+Input_file_name|wl_input.xlsx
+Bank_account_column|Bank Account
+Downloads_path|C:\Users\pl77906\Downloads
+Destination_path|C:\Users\pl77906\Desktop\folders\Whitelist\Pepsico\downloads
+Input_delay|0.02
+Browser|chrome

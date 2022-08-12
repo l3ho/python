@@ -1,0 +1,997 @@
+﻿Ndex ;MS ;Pokémon ;Gen;Type;
+#001 ;Bulbasaur ;Bulbasaur ;I;Grass ;Poison
+#002 ;Ivysaur ;Ivysaur ;I;Grass ;Poison
+#003 ;Venusaur ;Venusaur ;I;Grass ;Poison
+#004 ;Charmander ;Charmander ;I;Fire;
+#005 ;Charmeleon ;Charmeleon ;I;Fire;
+#006 ;Charizard ;Charizard ;I;Fire ;Flying
+#007 ;Squirtle ;Squirtle ;I;Water;
+#008 ;Wartortle ;Wartortle ;I;Water;
+#009 ;Blastoise ;Blastoise ;I;Water;
+#010 ;Caterpie ;Caterpie ;I;Bug;
+#011 ;Metapod ;Metapod ;I;Bug;
+#012 ;Butterfree ;Butterfree ;I;Bug ;Flying
+#013 ;Weedle ;Weedle ;I;Bug ;Poison
+#014 ;Kakuna ;Kakuna ;I;Bug ;Poison
+#015 ;Beedrill ;Beedrill ;I;Bug ;Poison
+#016 ;Pidgey ;Pidgey ;I;Normal ;Flying
+#017 ;Pidgeotto ;Pidgeotto ;I;Normal ;Flying
+#018 ;Pidgeot ;Pidgeot ;I;Normal ;Flying
+#019 ;Rattata ;Rattata ;I;Normal;
+#019 ;Rattata ;Rattata ;I;Dark ;Normal
+#020 ;Raticate ;Raticate ;I;Normal;
+#020 ;Raticate ;Raticate ;I;Dark ;Normal
+#021 ;Spearow ;Spearow ;I;Normal ;Flying
+#022 ;Fearow ;Fearow ;I;Normal ;Flying
+#023 ;Ekans ;Ekans ;I;Poison;
+#024 ;Arbok ;Arbok ;I;Poison;
+#025 ;Pikachu ;Pikachu ;I;Electric;
+#026 ;Raichu ;Raichu ;I;Electric;
+#026 ;Raichu ;Raichu ;I;Electric ;Psychic
+#027 ;Sandshrew ;Sandshrew ;I;Ground;
+#027 ;Sandshrew ;Sandshrew ;I;Ice ;Steel
+#028 ;Sandslash ;Sandslash ;I;Ground;
+#028 ;Sandslash ;Sandslash ;I;Ice ;Steel
+#029 ;Nidoran♀ ;Nidoran♀ ;I;Poison;
+#030 ;Nidorina ;Nidorina ;I;Poison;
+#031 ;Nidoqueen ;Nidoqueen ;I;Poison ;Ground
+#032 ;Nidoran♂ ;Nidoran♂ ;I;Poison;
+#033 ;Nidorino ;Nidorino ;I;Poison;
+#034 ;Nidoking ;Nidoking ;I;Poison ;Ground
+#035 ;Clefairy ;Clefairy ;I;Fairy;
+#036 ;Clefable ;Clefable ;I;Fairy;
+#037 ;Vulpix ;Vulpix ;I;Fire;
+#037 ;Vulpix ;Vulpix ;I;Ice;
+#038 ;Ninetales ;Ninetales ;I;Fire;
+#038 ;Ninetales ;Ninetales ;I;Ice ;Fairy
+#039 ;Jigglypuff ;Jigglypuff ;I;Normal ;Fairy
+#040 ;Wigglytuff ;Wigglytuff ;I;Normal ;Fairy
+#041 ;Zubat ;Zubat ;I;Poison ;Flying
+#042 ;Golbat ;Golbat ;I;Poison ;Flying
+#043 ;Oddish ;Oddish ;I;Grass ;Poison
+#044 ;Gloom ;Gloom ;I;Grass ;Poison
+#045 ;Vileplume ;Vileplume ;I;Grass ;Poison
+#046 ;Paras ;Paras ;I;Bug ;Grass
+#047 ;Parasect ;Parasect ;I;Bug ;Grass
+#048 ;Venonat ;Venonat ;I;Bug ;Poison
+#049 ;Venomoth ;Venomoth ;I;Bug ;Poison
+#050 ;Diglett ;Diglett ;I;Ground;
+#050 ;Diglett ;Diglett ;I;Ground ;Steel
+#051 ;Dugtrio ;Dugtrio ;I;Ground;
+#051 ;Dugtrio ;Dugtrio ;I;Ground ;Steel
+#052 ;Meowth ;Meowth ;I;Normal;
+#052 ;Meowth ;Meowth ;I;Dark;
+#052 ;Meowth ;Meowth ;I;Steel;
+#053 ;Persian ;Persian ;I;Normal;
+#053 ;Persian ;Persian ;I;Dark;
+#054 ;Psyduck ;Psyduck ;I;Water;
+#055 ;Golduck ;Golduck ;I;Water;
+#056 ;Mankey ;Mankey ;I;Fighting;
+#057 ;Primeape ;Primeape ;I;Fighting;
+#058 ;Growlithe ;Growlithe ;I;Fire;
+#058 ;Growlithe ;Growlithe ;I;Fire ;Rock
+#059 ;Arcanine ;Arcanine ;I;Fire;
+#059 ;Arcanine ;Arcanine ;I;Fire ;Rock
+#060 ;Poliwag ;Poliwag ;I;Water;
+#061 ;Poliwhirl ;Poliwhirl ;I;Water;
+#062 ;Poliwrath ;Poliwrath ;I;Water ;Fighting
+#063 ;Abra ;Abra ;I;Psychic;
+#064 ;Kadabra ;Kadabra ;I;Psychic;
+#065 ;Alakazam ;Alakazam ;I;Psychic;
+#066 ;Machop ;Machop ;I;Fighting;
+#067 ;Machoke ;Machoke ;I;Fighting;
+#068 ;Machamp ;Machamp ;I;Fighting;
+#069 ;Bellsprout ;Bellsprout ;I;Grass ;Poison
+#070 ;Weepinbell ;Weepinbell ;I;Grass ;Poison
+#071 ;Victreebel ;Victreebel ;I;Grass ;Poison
+#072 ;Tentacool ;Tentacool ;I;Water ;Poison
+#073 ;Tentacruel ;Tentacruel ;I;Water ;Poison
+#074 ;Geodude ;Geodude ;I;Rock ;Ground
+#074 ;Geodude ;Geodude ;I;Rock ;Electric
+#075 ;Graveler ;Graveler ;I;Rock ;Ground
+#075 ;Graveler ;Graveler ;I;Rock ;Electric
+#076 ;Golem ;Golem ;I;Rock ;Ground
+#076 ;Golem ;Golem ;I;Rock ;Electric
+#077 ;Ponyta ;Ponyta ;I;Fire;
+#077 ;Ponyta ;Ponyta ;I;Psychic;
+#078 ;Rapidash ;Rapidash ;I;Fire;
+#078 ;Rapidash ;Rapidash ;I;Psychic ;Fairy
+#079 ;Slowpoke ;Slowpoke ;I;Water ;Psychic
+#079 ;Slowpoke ;Slowpoke ;I;Psychic;
+#080 ;Slowbro ;Slowbro ;I;Water ;Psychic
+#080 ;Slowbro ;Slowbro ;I;Poison ;Psychic
+#081 ;Magnemite ;Magnemite ;I;Electric ;Steel
+#082 ;Magneton ;Magneton ;I;Electric ;Steel
+#083 ;Farfetch'd ;Farfetch'd ;I;Normal ;Flying
+#083 ;Farfetch'd ;Farfetch'd ;I;Fighting;
+#084 ;Doduo ;Doduo ;I;Normal ;Flying
+#085 ;Dodrio ;Dodrio ;I;Normal ;Flying
+#086 ;Seel ;Seel ;I;Water;
+#087 ;Dewgong ;Dewgong ;I;Water ;Ice
+#088 ;Grimer ;Grimer ;I;Poison;
+#088 ;Grimer ;Grimer ;I;Poison ;Dark
+#089 ;Muk ;Muk ;I;Poison;
+#089 ;Muk ;Muk ;I;Poison ;Dark
+#090 ;Shellder ;Shellder ;I;Water;
+#091 ;Cloyster ;Cloyster ;I;Water ;Ice
+#092 ;Gastly ;Gastly ;I;Ghost ;Poison
+#093 ;Haunter ;Haunter ;I;Ghost ;Poison
+#094 ;Gengar ;Gengar ;I;Ghost ;Poison
+#095 ;Onix ;Onix ;I;Rock ;Ground
+#096 ;Drowzee ;Drowzee ;I;Psychic;
+#097 ;Hypno ;Hypno ;I;Psychic;
+#098 ;Krabby ;Krabby ;I;Water;
+#099 ;Kingler ;Kingler ;I;Water;
+#100 ;Voltorb ;Voltorb ;I;Electric;
+#100 ;Voltorb ;Voltorb ;I;Electric ;Grass
+#101 ;Electrode ;Electrode ;I;Electric;
+#101 ;Electrode ;Electrode ;I;Electric ;Grass
+#102 ;Exeggcute ;Exeggcute ;I;Grass ;Psychic
+#103 ;Exeggutor ;Exeggutor ;I;Grass ;Psychic
+#103 ;Exeggutor ;Exeggutor ;I;Grass ;Dragon
+#104 ;Cubone ;Cubone ;I;Ground;
+#105 ;Marowak ;Marowak ;I;Ground;
+#105 ;Marowak ;Marowak ;I;Fire ;Ghost
+#106 ;Hitmonlee ;Hitmonlee ;I;Fighting;
+#107 ;Hitmonchan ;Hitmonchan ;I;Fighting;
+#108 ;Lickitung ;Lickitung ;I;Normal;
+#109 ;Koffing ;Koffing ;I;Poison;
+#110 ;Weezing ;Weezing ;I;Poison;
+#110 ;Weezing ;Weezing ;I;Poison ;Fairy
+#111 ;Rhyhorn ;Rhyhorn ;I;Ground ;Rock
+#112 ;Rhydon ;Rhydon ;I;Ground ;Rock
+#113 ;Chansey ;Chansey ;I;Normal;
+#114 ;Tangela ;Tangela ;I;Grass;
+#115 ;Kangaskhan ;Kangaskhan ;I;Normal;
+#116 ;Horsea ;Horsea ;I;Water;
+#117 ;Seadra ;Seadra ;I;Water;
+#118 ;Goldeen ;Goldeen ;I;Water;
+#119 ;Seaking ;Seaking ;I;Water;
+#120 ;Staryu ;Staryu ;I;Water;
+#121 ;Starmie ;Starmie ;I;Water ;Psychic
+#122 ;Mr. Mime ;Mr. Mime ;I;Psychic ;Fairy
+#122 ;Mr. Mime ;Mr. Mime ;I;Ice ;Psychic
+#123 ;Scyther ;Scyther ;I;Bug ;Flying
+#124 ;Jynx ;Jynx ;I;Ice ;Psychic
+#125 ;Electabuzz ;Electabuzz ;I;Electric;
+#126 ;Magmar ;Magmar ;I;Fire;
+#127 ;Pinsir ;Pinsir ;I;Bug;
+#128 ;Tauros ;Tauros ;I;Normal;
+#129 ;Magikarp ;Magikarp ;I;Water;
+#130 ;Gyarados ;Gyarados ;I;Water ;Flying
+#131 ;Lapras ;Lapras ;I;Water ;Ice
+#132 ;Ditto ;Ditto ;I;Normal;
+#133 ;Eevee ;Eevee ;I;Normal;
+#134 ;Vaporeon ;Vaporeon ;I;Water;
+#135 ;Jolteon ;Jolteon ;I;Electric;
+#136 ;Flareon ;Flareon ;I;Fire;
+#137 ;Porygon ;Porygon ;I;Normal;
+#138 ;Omanyte ;Omanyte ;I;Rock ;Water
+#139 ;Omastar ;Omastar ;I;Rock ;Water
+#140 ;Kabuto ;Kabuto ;I;Rock ;Water
+#141 ;Kabutops ;Kabutops ;I;Rock ;Water
+#142 ;Aerodactyl ;Aerodactyl ;I;Rock ;Flying
+#143 ;Snorlax ;Snorlax ;I;Normal;
+#144 ;Articuno ;Articuno ;I;Ice ;Flying
+#144 ;Articuno ;Articuno ;I;Psychic ;Flying
+#145 ;Zapdos ;Zapdos ;I;Electric ;Flying
+#145 ;Zapdos ;Zapdos ;I;Fighting ;Flying
+#146 ;Moltres ;Moltres ;I;Fire ;Flying
+#146 ;Moltres ;Moltres ;I;Dark ;Flying
+#147 ;Dratini ;Dratini ;I;Dragon;
+#148 ;Dragonair ;Dragonair ;I;Dragon;
+#149 ;Dragonite ;Dragonite ;I;Dragon ;Flying
+#150 ;Mewtwo ;Mewtwo ;I;Psychic;
+#151 ;Mew ;Mew ;I;Psychic;
+#152 ;Chikorita ;Chikorita ;II;Grass;
+#153 ;Bayleef ;Bayleef ;II;Grass;
+#154 ;Meganium ;Meganium ;II;Grass;
+#155 ;Cyndaquil ;Cyndaquil ;II;Fire;
+#156 ;Quilava ;Quilava ;II;Fire;
+#157 ;Typhlosion ;Typhlosion ;II;Fire;
+#157 ;Typhlosion ;Typhlosion ;II;Fire ;Ghost
+#158 ;Totodile ;Totodile ;II;Water;
+#159 ;Croconaw ;Croconaw ;II;Water;
+#160 ;Feraligatr ;Feraligatr ;II;Water;
+#161 ;Sentret ;Sentret ;II;Normal;
+#162 ;Furret ;Furret ;II;Normal;
+#163 ;Hoothoot ;Hoothoot ;II;Normal ;Flying
+#164 ;Noctowl ;Noctowl ;II;Normal ;Flying
+#165 ;Ledyba ;Ledyba ;II;Bug ;Flying
+#166 ;Ledian ;Ledian ;II;Bug ;Flying
+#167 ;Spinarak ;Spinarak ;II;Bug ;Poison
+#168 ;Ariados ;Ariados ;II;Bug ;Poison
+#169 ;Crobat ;Crobat ;II;Poison ;Flying
+#170 ;Chinchou ;Chinchou ;II;Water ;Electric
+#171 ;Lanturn ;Lanturn ;II;Water ;Electric
+#172 ;Pichu ;Pichu ;II;Electric;
+#173 ;Cleffa ;Cleffa ;II;Fairy;
+#174 ;Igglybuff ;Igglybuff ;II;Normal ;Fairy
+#175 ;Togepi ;Togepi ;II;Fairy;
+#176 ;Togetic ;Togetic ;II;Fairy ;Flying
+#177 ;Natu ;Natu ;II;Psychic ;Flying
+#178 ;Xatu ;Xatu ;II;Psychic ;Flying
+#179 ;Mareep ;Mareep ;II;Electric;
+#180 ;Flaaffy ;Flaaffy ;II;Electric;
+#181 ;Ampharos ;Ampharos ;II;Electric;
+#182 ;Bellossom ;Bellossom ;II;Grass;
+#183 ;Marill ;Marill ;II;Water ;Fairy
+#184 ;Azumarill ;Azumarill ;II;Water ;Fairy
+#185 ;Sudowoodo ;Sudowoodo ;II;Rock;
+#186 ;Politoed ;Politoed ;II;Water;
+#187 ;Hoppip ;Hoppip ;II;Grass ;Flying
+#188 ;Skiploom ;Skiploom ;II;Grass ;Flying
+#189 ;Jumpluff ;Jumpluff ;II;Grass ;Flying
+#190 ;Aipom ;Aipom ;II;Normal;
+#191 ;Sunkern ;Sunkern ;II;Grass;
+#192 ;Sunflora ;Sunflora ;II;Grass;
+#193 ;Yanma ;Yanma ;II;Bug ;Flying
+#194 ;Wooper ;Wooper ;II;Water ;Ground
+#195 ;Quagsire ;Quagsire ;II;Water ;Ground
+#196 ;Espeon ;Espeon ;II;Psychic;
+#197 ;Umbreon ;Umbreon ;II;Dark;
+#198 ;Murkrow ;Murkrow ;II;Dark ;Flying
+#199 ;Slowking ;Slowking ;II;Water ;Psychic
+#199 ;Slowking ;Slowking ;II;Poison ;Psychic
+#200 ;Misdreavus ;Misdreavus ;II;Ghost;
+#201 ;Unown ;Unown ;II;Psychic;
+#202 ;Wobbuffet ;Wobbuffet ;II;Psychic;
+#203 ;Girafarig ;Girafarig ;II;Normal ;Psychic
+#204 ;Pineco ;Pineco ;II;Bug;
+#205 ;Forretress ;Forretress ;II;Bug ;Steel
+#206 ;Dunsparce ;Dunsparce ;II;Normal;
+#207 ;Gligar ;Gligar ;II;Ground ;Flying
+#208 ;Steelix ;Steelix ;II;Steel ;Ground
+#209 ;Snubbull ;Snubbull ;II;Fairy;
+#210 ;Granbull ;Granbull ;II;Fairy;
+#211 ;Qwilfish ;Qwilfish ;II;Water ;Poison
+#211 ;Qwilfish ;Qwilfish ;II;Dark ;Poison
+#212 ;Scizor ;Scizor ;II;Bug ;Steel
+#213 ;Shuckle ;Shuckle ;II;Bug ;Rock
+#214 ;Heracross ;Heracross ;II;Bug ;Fighting
+#215 ;Sneasel ;Sneasel ;II;Dark ;Ice
+#215 ;Sneasel ;Sneasel ;II;Fighting ;Poison
+#216 ;Teddiursa ;Teddiursa ;II;Normal;
+#217 ;Ursaring ;Ursaring ;II;Normal;
+#218 ;Slugma ;Slugma ;II;Fire;
+#219 ;Magcargo ;Magcargo ;II;Fire ;Rock
+#220 ;Swinub ;Swinub ;II;Ice ;Ground
+#221 ;Piloswine ;Piloswine ;II;Ice ;Ground
+#222 ;Corsola ;Corsola ;II;Water ;Rock
+#222 ;Corsola ;Corsola ;II;Ghost;
+#223 ;Remoraid ;Remoraid ;II;Water;
+#224 ;Octillery ;Octillery ;II;Water;
+#225 ;Delibird ;Delibird ;II;Ice ;Flying
+#226 ;Mantine ;Mantine ;II;Water ;Flying
+#227 ;Skarmory ;Skarmory ;II;Steel ;Flying
+#228 ;Houndour ;Houndour ;II;Dark ;Fire
+#229 ;Houndoom ;Houndoom ;II;Dark ;Fire
+#230 ;Kingdra ;Kingdra ;II;Water ;Dragon
+#231 ;Phanpy ;Phanpy ;II;Ground;
+#232 ;Donphan ;Donphan ;II;Ground;
+#233 ;Porygon2 ;Porygon2 ;II;Normal;
+#234 ;Stantler ;Stantler ;II;Normal;
+#235 ;Smeargle ;Smeargle ;II;Normal;
+#236 ;Tyrogue ;Tyrogue ;II;Fighting;
+#237 ;Hitmontop ;Hitmontop ;II;Fighting;
+#238 ;Smoochum ;Smoochum ;II;Ice ;Psychic
+#239 ;Elekid ;Elekid ;II;Electric;
+#240 ;Magby ;Magby ;II;Fire;
+#241 ;Miltank ;Miltank ;II;Normal;
+#242 ;Blissey ;Blissey ;II;Normal;
+#243 ;Raikou ;Raikou ;II;Electric;
+#244 ;Entei ;Entei ;II;Fire;
+#245 ;Suicune ;Suicune ;II;Water;
+#246 ;Larvitar ;Larvitar ;II;Rock ;Ground
+#247 ;Pupitar ;Pupitar ;II;Rock ;Ground
+#248 ;Tyranitar ;Tyranitar ;II;Rock ;Dark
+#249 ;Lugia ;Lugia ;II;Psychic ;Flying
+#250 ;Ho-Oh ;Ho-Oh ;II;Fire ;Flying
+#251 ;Celebi ;Celebi ;II;Psychic ;Grass
+#252 ;Treecko ;Treecko ;III;Grass;
+#253 ;Grovyle ;Grovyle ;III;Grass;
+#254 ;Sceptile ;Sceptile ;III;Grass;
+#255 ;Torchic ;Torchic ;III;Fire;
+#256 ;Combusken ;Combusken ;III;Fire ;Fighting
+#257 ;Blaziken ;Blaziken ;III;Fire ;Fighting
+#258 ;Mudkip ;Mudkip ;III;Water;
+#259 ;Marshtomp ;Marshtomp ;III;Water ;Ground
+#260 ;Swampert ;Swampert ;III;Water ;Ground
+#261 ;Poochyena ;Poochyena ;III;Dark;
+#262 ;Mightyena ;Mightyena ;III;Dark;
+#263 ;Zigzagoon ;Zigzagoon ;III;Normal;
+#263 ;Zigzagoon ;Zigzagoon ;III;Dark ;Normal
+#264 ;Linoone ;Linoone ;III;Normal;
+#264 ;Linoone ;Linoone ;III;Dark ;Normal
+#265 ;Wurmple ;Wurmple ;III;Bug;
+#266 ;Silcoon ;Silcoon ;III;Bug;
+#267 ;Beautifly ;Beautifly ;III;Bug ;Flying
+#268 ;Cascoon ;Cascoon ;III;Bug;
+#269 ;Dustox ;Dustox ;III;Bug ;Poison
+#270 ;Lotad ;Lotad ;III;Water ;Grass
+#271 ;Lombre ;Lombre ;III;Water ;Grass
+#272 ;Ludicolo ;Ludicolo ;III;Water ;Grass
+#273 ;Seedot ;Seedot ;III;Grass;
+#274 ;Nuzleaf ;Nuzleaf ;III;Grass ;Dark
+#275 ;Shiftry ;Shiftry ;III;Grass ;Dark
+#276 ;Taillow ;Taillow ;III;Normal ;Flying
+#277 ;Swellow ;Swellow ;III;Normal ;Flying
+#278 ;Wingull ;Wingull ;III;Water ;Flying
+#279 ;Pelipper ;Pelipper ;III;Water ;Flying
+#280 ;Ralts ;Ralts ;III;Psychic ;Fairy
+#281 ;Kirlia ;Kirlia ;III;Psychic ;Fairy
+#282 ;Gardevoir ;Gardevoir ;III;Psychic ;Fairy
+#283 ;Surskit ;Surskit ;III;Bug ;Water
+#284 ;Masquerain ;Masquerain ;III;Bug ;Flying
+#285 ;Shroomish ;Shroomish ;III;Grass;
+#286 ;Breloom ;Breloom ;III;Grass ;Fighting
+#287 ;Slakoth ;Slakoth ;III;Normal;
+#288 ;Vigoroth ;Vigoroth ;III;Normal;
+#289 ;Slaking ;Slaking ;III;Normal;
+#290 ;Nincada ;Nincada ;III;Bug ;Ground
+#291 ;Ninjask ;Ninjask ;III;Bug ;Flying
+#292 ;Shedinja ;Shedinja ;III;Bug ;Ghost
+#293 ;Whismur ;Whismur ;III;Normal;
+#294 ;Loudred ;Loudred ;III;Normal;
+#295 ;Exploud ;Exploud ;III;Normal;
+#296 ;Makuhita ;Makuhita ;III;Fighting;
+#297 ;Hariyama ;Hariyama ;III;Fighting;
+#298 ;Azurill ;Azurill ;III;Normal ;Fairy
+#299 ;Nosepass ;Nosepass ;III;Rock;
+#300 ;Skitty ;Skitty ;III;Normal;
+#301 ;Delcatty ;Delcatty ;III;Normal;
+#302 ;Sableye ;Sableye ;III;Dark ;Ghost
+#303 ;Mawile ;Mawile ;III;Steel ;Fairy
+#304 ;Aron ;Aron ;III;Steel ;Rock
+#305 ;Lairon ;Lairon ;III;Steel ;Rock
+#306 ;Aggron ;Aggron ;III;Steel ;Rock
+#307 ;Meditite ;Meditite ;III;Fighting ;Psychic
+#308 ;Medicham ;Medicham ;III;Fighting ;Psychic
+#309 ;Electrike ;Electrike ;III;Electric;
+#310 ;Manectric ;Manectric ;III;Electric;
+#311 ;Plusle ;Plusle ;III;Electric;
+#312 ;Minun ;Minun ;III;Electric;
+#313 ;Volbeat ;Volbeat ;III;Bug;
+#314 ;Illumise ;Illumise ;III;Bug;
+#315 ;Roselia ;Roselia ;III;Grass ;Poison
+#316 ;Gulpin ;Gulpin ;III;Poison;
+#317 ;Swalot ;Swalot ;III;Poison;
+#318 ;Carvanha ;Carvanha ;III;Water ;Dark
+#319 ;Sharpedo ;Sharpedo ;III;Water ;Dark
+#320 ;Wailmer ;Wailmer ;III;Water;
+#321 ;Wailord ;Wailord ;III;Water;
+#322 ;Numel ;Numel ;III;Fire ;Ground
+#323 ;Camerupt ;Camerupt ;III;Fire ;Ground
+#324 ;Torkoal ;Torkoal ;III;Fire;
+#325 ;Spoink ;Spoink ;III;Psychic;
+#326 ;Grumpig ;Grumpig ;III;Psychic;
+#327 ;Spinda ;Spinda ;III;Normal;
+#328 ;Trapinch ;Trapinch ;III;Ground;
+#329 ;Vibrava ;Vibrava ;III;Ground ;Dragon
+#330 ;Flygon ;Flygon ;III;Ground ;Dragon
+#331 ;Cacnea ;Cacnea ;III;Grass;
+#332 ;Cacturne ;Cacturne ;III;Grass ;Dark
+#333 ;Swablu ;Swablu ;III;Normal ;Flying
+#334 ;Altaria ;Altaria ;III;Dragon ;Flying
+#335 ;Zangoose ;Zangoose ;III;Normal;
+#336 ;Seviper ;Seviper ;III;Poison;
+#337 ;Lunatone ;Lunatone ;III;Rock ;Psychic
+#338 ;Solrock ;Solrock ;III;Rock ;Psychic
+#339 ;Barboach ;Barboach ;III;Water ;Ground
+#340 ;Whiscash ;Whiscash ;III;Water ;Ground
+#341 ;Corphish ;Corphish ;III;Water;
+#342 ;Crawdaunt ;Crawdaunt ;III;Water ;Dark
+#343 ;Baltoy ;Baltoy ;III;Ground ;Psychic
+#344 ;Claydol ;Claydol ;III;Ground ;Psychic
+#345 ;Lileep ;Lileep ;III;Rock ;Grass
+#346 ;Cradily ;Cradily ;III;Rock ;Grass
+#347 ;Anorith ;Anorith ;III;Rock ;Bug
+#348 ;Armaldo ;Armaldo ;III;Rock ;Bug
+#349 ;Feebas ;Feebas ;III;Water;
+#350 ;Milotic ;Milotic ;III;Water;
+#351 ;Castform ;Castform ;III;Normal;
+#351 ;Castform ;Castform ;III;Fire;
+#351 ;Castform ;Castform ;III;Water;
+#351 ;Castform ;Castform ;III;Ice;
+#352 ;Kecleon ;Kecleon ;III;Normal;
+#353 ;Shuppet ;Shuppet ;III;Ghost;
+#354 ;Banette ;Banette ;III;Ghost;
+#355 ;Duskull ;Duskull ;III;Ghost;
+#356 ;Dusclops ;Dusclops ;III;Ghost;
+#357 ;Tropius ;Tropius ;III;Grass ;Flying
+#358 ;Chimecho ;Chimecho ;III;Psychic;
+#359 ;Absol ;Absol ;III;Dark;
+#360 ;Wynaut ;Wynaut ;III;Psychic;
+#361 ;Snorunt ;Snorunt ;III;Ice;
+#362 ;Glalie ;Glalie ;III;Ice;
+#363 ;Spheal ;Spheal ;III;Ice ;Water
+#364 ;Sealeo ;Sealeo ;III;Ice ;Water
+#365 ;Walrein ;Walrein ;III;Ice ;Water
+#366 ;Clamperl ;Clamperl ;III;Water;
+#367 ;Huntail ;Huntail ;III;Water;
+#368 ;Gorebyss ;Gorebyss ;III;Water;
+#369 ;Relicanth ;Relicanth ;III;Water ;Rock
+#370 ;Luvdisc ;Luvdisc ;III;Water;
+#371 ;Bagon ;Bagon ;III;Dragon;
+#372 ;Shelgon ;Shelgon ;III;Dragon;
+#373 ;Salamence ;Salamence ;III;Dragon ;Flying
+#374 ;Beldum ;Beldum ;III;Steel ;Psychic
+#375 ;Metang ;Metang ;III;Steel ;Psychic
+#376 ;Metagross ;Metagross ;III;Steel ;Psychic
+#377 ;Regirock ;Regirock ;III;Rock;
+#378 ;Regice ;Regice ;III;Ice;
+#379 ;Registeel ;Registeel ;III;Steel;
+#380 ;Latias ;Latias ;III;Dragon ;Psychic
+#381 ;Latios ;Latios ;III;Dragon ;Psychic
+#382 ;Kyogre ;Kyogre ;III;Water;
+#383 ;Groudon ;Groudon ;III;Ground;
+#384 ;Rayquaza ;Rayquaza ;III;Dragon ;Flying
+#385 ;Jirachi ;Jirachi ;III;Steel ;Psychic
+#386 ;Deoxys ;Deoxys ;III;Psychic;
+#386 ;Deoxys ;Deoxys ;III;Psychic;
+#386 ;Deoxys ;Deoxys ;III;Psychic;
+#386 ;Deoxys ;Deoxys ;III;Psychic;
+#387 ;Turtwig ;Turtwig ;IV;Grass;
+#388 ;Grotle ;Grotle ;IV;Grass;
+#389 ;Torterra ;Torterra ;IV;Grass ;Ground
+#390 ;Chimchar ;Chimchar ;IV;Fire;
+#391 ;Monferno ;Monferno ;IV;Fire ;Fighting
+#392 ;Infernape ;Infernape ;IV;Fire ;Fighting
+#393 ;Piplup ;Piplup ;IV;Water;
+#394 ;Prinplup ;Prinplup ;IV;Water;
+#395 ;Empoleon ;Empoleon ;IV;Water ;Steel
+#396 ;Starly ;Starly ;IV;Normal ;Flying
+#397 ;Staravia ;Staravia ;IV;Normal ;Flying
+#398 ;Staraptor ;Staraptor ;IV;Normal ;Flying
+#399 ;Bidoof ;Bidoof ;IV;Normal;
+#400 ;Bibarel ;Bibarel ;IV;Normal ;Water
+#401 ;Kricketot ;Kricketot ;IV;Bug;
+#402 ;Kricketune ;Kricketune ;IV;Bug;
+#403 ;Shinx ;Shinx ;IV;Electric;
+#404 ;Luxio ;Luxio ;IV;Electric;
+#405 ;Luxray ;Luxray ;IV;Electric;
+#406 ;Budew ;Budew ;IV;Grass ;Poison
+#407 ;Roserade ;Roserade ;IV;Grass ;Poison
+#408 ;Cranidos ;Cranidos ;IV;Rock;
+#409 ;Rampardos ;Rampardos ;IV;Rock;
+#410 ;Shieldon ;Shieldon ;IV;Rock ;Steel
+#411 ;Bastiodon ;Bastiodon ;IV;Rock ;Steel
+#412 ;Burmy ;Burmy ;IV;Bug;
+#412 ;Burmy ;Burmy ;IV;Bug;
+#412 ;Burmy ;Burmy ;IV;Bug;
+#413 ;Wormadam ;Wormadam ;IV;Bug ;Grass
+#413 ;Wormadam ;Wormadam ;IV;Bug ;Ground
+#413 ;Wormadam ;Wormadam ;IV;Bug ;Steel
+#414 ;Mothim ;Mothim ;IV;Bug ;Flying
+#415 ;Combee ;Combee ;IV;Bug ;Flying
+#416 ;Vespiquen ;Vespiquen ;IV;Bug ;Flying
+#417 ;Pachirisu ;Pachirisu ;IV;Electric;
+#418 ;Buizel ;Buizel ;IV;Water;
+#419 ;Floatzel ;Floatzel ;IV;Water;
+#420 ;Cherubi ;Cherubi ;IV;Grass;
+#421 ;Cherrim ;Cherrim ;IV;Grass;
+#422 ;Shellos ;Shellos ;IV;Water;
+#422 ;Shellos ;Shellos ;IV;Water;
+#423 ;Gastrodon ;Gastrodon ;IV;Water ;Ground
+#423 ;Gastrodon ;Gastrodon ;IV;Water ;Ground
+#424 ;Ambipom ;Ambipom ;IV;Normal;
+#425 ;Drifloon ;Drifloon ;IV;Ghost ;Flying
+#426 ;Drifblim ;Drifblim ;IV;Ghost ;Flying
+#427 ;Buneary ;Buneary ;IV;Normal;
+#428 ;Lopunny ;Lopunny ;IV;Normal;
+#429 ;Mismagius ;Mismagius ;IV;Ghost;
+#430 ;Honchkrow ;Honchkrow ;IV;Dark ;Flying
+#431 ;Glameow ;Glameow ;IV;Normal;
+#432 ;Purugly ;Purugly ;IV;Normal;
+#433 ;Chingling ;Chingling ;IV;Psychic;
+#434 ;Stunky ;Stunky ;IV;Poison ;Dark
+#435 ;Skuntank ;Skuntank ;IV;Poison ;Dark
+#436 ;Bronzor ;Bronzor ;IV;Steel ;Psychic
+#437 ;Bronzong ;Bronzong ;IV;Steel ;Psychic
+#438 ;Bonsly ;Bonsly ;IV;Rock;
+#439 ;Mime Jr. ;Mime Jr. ;IV;Psychic ;Fairy
+#440 ;Happiny ;Happiny ;IV;Normal;
+#441 ;Chatot ;Chatot ;IV;Normal ;Flying
+#442 ;Spiritomb ;Spiritomb ;IV;Ghost ;Dark
+#443 ;Gible ;Gible ;IV;Dragon ;Ground
+#444 ;Gabite ;Gabite ;IV;Dragon ;Ground
+#445 ;Garchomp ;Garchomp ;IV;Dragon ;Ground
+#446 ;Munchlax ;Munchlax ;IV;Normal;
+#447 ;Riolu ;Riolu ;IV;Fighting;
+#448 ;Lucario ;Lucario ;IV;Fighting ;Steel
+#449 ;Hippopotas ;Hippopotas ;IV;Ground;
+#450 ;Hippowdon ;Hippowdon ;IV;Ground;
+#451 ;Skorupi ;Skorupi ;IV;Poison ;Bug
+#452 ;Drapion ;Drapion ;IV;Poison ;Dark
+#453 ;Croagunk ;Croagunk ;IV;Poison ;Fighting
+#454 ;Toxicroak ;Toxicroak ;IV;Poison ;Fighting
+#455 ;Carnivine ;Carnivine ;IV;Grass;
+#456 ;Finneon ;Finneon ;IV;Water;
+#457 ;Lumineon ;Lumineon ;IV;Water;
+#458 ;Mantyke ;Mantyke ;IV;Water ;Flying
+#459 ;Snover ;Snover ;IV;Grass ;Ice
+#460 ;Abomasnow ;Abomasnow ;IV;Grass ;Ice
+#461 ;Weavile ;Weavile ;IV;Dark ;Ice
+#462 ;Magnezone ;Magnezone ;IV;Electric ;Steel
+#463 ;Lickilicky ;Lickilicky ;IV;Normal;
+#464 ;Rhyperior ;Rhyperior ;IV;Ground ;Rock
+#465 ;Tangrowth ;Tangrowth ;IV;Grass;
+#466 ;Electivire ;Electivire ;IV;Electric;
+#467 ;Magmortar ;Magmortar ;IV;Fire;
+#468 ;Togekiss ;Togekiss ;IV;Fairy ;Flying
+#469 ;Yanmega ;Yanmega ;IV;Bug ;Flying
+#470 ;Leafeon ;Leafeon ;IV;Grass;
+#471 ;Glaceon ;Glaceon ;IV;Ice;
+#472 ;Gliscor ;Gliscor ;IV;Ground ;Flying
+#473 ;Mamoswine ;Mamoswine ;IV;Ice ;Ground
+#474 ;Porygon-Z ;Porygon-Z ;IV;Normal;
+#475 ;Gallade ;Gallade ;IV;Psychic ;Fighting
+#476 ;Probopass ;Probopass ;IV;Rock ;Steel
+#477 ;Dusknoir ;Dusknoir ;IV;Ghost;
+#478 ;Froslass ;Froslass ;IV;Ice ;Ghost
+#479 ;Rotom ;Rotom ;IV;Electric ;Ghost
+#479 ;Rotom ;Rotom ;IV;Electric ;Fire
+#479 ;Rotom ;Rotom ;IV;Electric ;Water
+#479 ;Rotom ;Rotom ;IV;Electric ;Ice
+#479 ;Rotom ;Rotom ;IV;Electric ;Flying
+#479 ;Rotom ;Rotom ;IV;Electric ;Grass
+#480 ;Uxie ;Uxie ;IV;Psychic;
+#481 ;Mesprit ;Mesprit ;IV;Psychic;
+#482 ;Azelf ;Azelf ;IV;Psychic;
+#483 ;Dialga ;Dialga ;IV;Steel ;Dragon
+#483 ;Dialga ;Dialga ;IV;Steel ;Dragon
+#484 ;Palkia ;Palkia ;IV;Water ;Dragon
+#484 ;Palkia ;Palkia ;IV;Water ;Dragon
+#485 ;Heatran ;Heatran ;IV;Fire ;Steel
+#486 ;Regigigas ;Regigigas ;IV;Normal;
+#487 ;Giratina ;Giratina ;IV;Ghost ;Dragon
+#487 ;Giratina ;Giratina ;IV;Ghost ;Dragon
+#488 ;Cresselia ;Cresselia ;IV;Psychic;
+#489 ;Phione ;Phione ;IV;Water;
+#490 ;Manaphy ;Manaphy ;IV;Water;
+#491 ;Darkrai ;Darkrai ;IV;Dark;
+#492 ;Shaymin ;Shaymin ;IV;Grass;
+#492 ;Shaymin ;Shaymin ;IV;Grass ;Flying
+#493 ;Arceus ;Arceus ;IV;Normal;
+#494 ;Victini ;Victini ;V;Psychic ;Fire
+#495 ;Snivy ;Snivy ;V;Grass;
+#496 ;Servine ;Servine ;V;Grass;
+#497 ;Serperior ;Serperior ;V;Grass;
+#498 ;Tepig ;Tepig ;V;Fire;
+#499 ;Pignite ;Pignite ;V;Fire ;Fighting
+#500 ;Emboar ;Emboar ;V;Fire ;Fighting
+#501 ;Oshawott ;Oshawott ;V;Water;
+#502 ;Dewott ;Dewott ;V;Water;
+#503 ;Samurott ;Samurott ;V;Water;
+#503 ;Samurott ;Samurott ;V;Water ;Dark
+#504 ;Patrat ;Patrat ;V;Normal;
+#505 ;Watchog ;Watchog ;V;Normal;
+#506 ;Lillipup ;Lillipup ;V;Normal;
+#507 ;Herdier ;Herdier ;V;Normal;
+#508 ;Stoutland ;Stoutland ;V;Normal;
+#509 ;Purrloin ;Purrloin ;V;Dark;
+#510 ;Liepard ;Liepard ;V;Dark;
+#511 ;Pansage ;Pansage ;V;Grass;
+#512 ;Simisage ;Simisage ;V;Grass;
+#513 ;Pansear ;Pansear ;V;Fire;
+#514 ;Simisear ;Simisear ;V;Fire;
+#515 ;Panpour ;Panpour ;V;Water;
+#516 ;Simipour ;Simipour ;V;Water;
+#517 ;Munna ;Munna ;V;Psychic;
+#518 ;Musharna ;Musharna ;V;Psychic;
+#519 ;Pidove ;Pidove ;V;Normal ;Flying
+#520 ;Tranquill ;Tranquill ;V;Normal ;Flying
+#521 ;Unfezant ;Unfezant ;V;Normal ;Flying
+#521 ;Unfezant ;Unfezant ;V;Normal ;Flying
+#522 ;Blitzle ;Blitzle ;V;Electric;
+#523 ;Zebstrika ;Zebstrika ;V;Electric;
+#524 ;Roggenrola ;Roggenrola ;V;Rock;
+#525 ;Boldore ;Boldore ;V;Rock;
+#526 ;Gigalith ;Gigalith ;V;Rock;
+#527 ;Woobat ;Woobat ;V;Psychic ;Flying
+#528 ;Swoobat ;Swoobat ;V;Psychic ;Flying
+#529 ;Drilbur ;Drilbur ;V;Ground;
+#530 ;Excadrill ;Excadrill ;V;Ground ;Steel
+#531 ;Audino ;Audino ;V;Normal;
+#532 ;Timburr ;Timburr ;V;Fighting;
+#533 ;Gurdurr ;Gurdurr ;V;Fighting;
+#534 ;Conkeldurr ;Conkeldurr ;V;Fighting;
+#535 ;Tympole ;Tympole ;V;Water;
+#536 ;Palpitoad ;Palpitoad ;V;Water ;Ground
+#537 ;Seismitoad ;Seismitoad ;V;Water ;Ground
+#538 ;Throh ;Throh ;V;Fighting;
+#539 ;Sawk ;Sawk ;V;Fighting;
+#540 ;Sewaddle ;Sewaddle ;V;Bug ;Grass
+#541 ;Swadloon ;Swadloon ;V;Bug ;Grass
+#542 ;Leavanny ;Leavanny ;V;Bug ;Grass
+#543 ;Venipede ;Venipede ;V;Bug ;Poison
+#544 ;Whirlipede ;Whirlipede ;V;Bug ;Poison
+#545 ;Scolipede ;Scolipede ;V;Bug ;Poison
+#546 ;Cottonee ;Cottonee ;V;Grass ;Fairy
+#547 ;Whimsicott ;Whimsicott ;V;Grass ;Fairy
+#548 ;Petilil ;Petilil ;V;Grass;
+#549 ;Lilligant ;Lilligant ;V;Grass;
+#549 ;Lilligant ;Lilligant ;V;Grass ;Fighting
+#550 ;Basculin ;Basculin ;V;Water;
+#550 ;Basculin ;Basculin ;V;Water;
+#550 ;Basculin ;Basculin ;V;Water;
+#551 ;Sandile ;Sandile ;V;Ground ;Dark
+#552 ;Krokorok ;Krokorok ;V;Ground ;Dark
+#553 ;Krookodile ;Krookodile ;V;Ground ;Dark
+#554 ;Darumaka ;Darumaka ;V;Fire;
+#554 ;Darumaka ;Darumaka ;V;Ice;
+#555 ;Darmanitan ;Darmanitan ;V;Fire;
+#555 ;Darmanitan ;Darmanitan ;V;Fire ;Psychic
+#555 ;Darmanitan ;Darmanitan ;V;Ice;
+#555 ;Darmanitan ;Darmanitan ;V;Ice ;Fire
+#556 ;Maractus ;Maractus ;V;Grass;
+#557 ;Dwebble ;Dwebble ;V;Bug ;Rock
+#558 ;Crustle ;Crustle ;V;Bug ;Rock
+#559 ;Scraggy ;Scraggy ;V;Dark ;Fighting
+#560 ;Scrafty ;Scrafty ;V;Dark ;Fighting
+#561 ;Sigilyph ;Sigilyph ;V;Psychic ;Flying
+#562 ;Yamask ;Yamask ;V;Ghost;
+#562 ;Yamask ;Yamask ;V;Ground ;Ghost
+#563 ;Cofagrigus ;Cofagrigus ;V;Ghost;
+#564 ;Tirtouga ;Tirtouga ;V;Water ;Rock
+#565 ;Carracosta ;Carracosta ;V;Water ;Rock
+#566 ;Archen ;Archen ;V;Rock ;Flying
+#567 ;Archeops ;Archeops ;V;Rock ;Flying
+#568 ;Trubbish ;Trubbish ;V;Poison;
+#569 ;Garbodor ;Garbodor ;V;Poison;
+#570 ;Zorua ;Zorua ;V;Dark;
+#570 ;Zorua ;Zorua ;V;Normal ;Ghost
+#571 ;Zoroark ;Zoroark ;V;Dark;
+#571 ;Zoroark ;Zoroark ;V;Normal ;Ghost
+#572 ;Minccino ;Minccino ;V;Normal;
+#573 ;Cinccino ;Cinccino ;V;Normal;
+#574 ;Gothita ;Gothita ;V;Psychic;
+#575 ;Gothorita ;Gothorita ;V;Psychic;
+#576 ;Gothitelle ;Gothitelle ;V;Psychic;
+#577 ;Solosis ;Solosis ;V;Psychic;
+#578 ;Duosion ;Duosion ;V;Psychic;
+#579 ;Reuniclus ;Reuniclus ;V;Psychic;
+#580 ;Ducklett ;Ducklett ;V;Water ;Flying
+#581 ;Swanna ;Swanna ;V;Water ;Flying
+#582 ;Vanillite ;Vanillite ;V;Ice;
+#583 ;Vanillish ;Vanillish ;V;Ice;
+#584 ;Vanilluxe ;Vanilluxe ;V;Ice;
+#585 ;Deerling ;Deerling ;V;Normal ;Grass
+#586 ;Sawsbuck ;Sawsbuck ;V;Normal ;Grass
+#587 ;Emolga ;Emolga ;V;Electric ;Flying
+#588 ;Karrablast ;Karrablast ;V;Bug;
+#589 ;Escavalier ;Escavalier ;V;Bug ;Steel
+#590 ;Foongus ;Foongus ;V;Grass ;Poison
+#591 ;Amoonguss ;Amoonguss ;V;Grass ;Poison
+#592 ;Frillish ;Frillish ;V;Water ;Ghost
+#592 ;Frillish ;Frillish ;V;Water ;Ghost
+#593 ;Jellicent ;Jellicent ;V;Water ;Ghost
+#593 ;Jellicent ;Jellicent ;V;Water ;Ghost
+#594 ;Alomomola ;Alomomola ;V;Water;
+#595 ;Joltik ;Joltik ;V;Bug ;Electric
+#596 ;Galvantula ;Galvantula ;V;Bug ;Electric
+#597 ;Ferroseed ;Ferroseed ;V;Grass ;Steel
+#598 ;Ferrothorn ;Ferrothorn ;V;Grass ;Steel
+#599 ;Klink ;Klink ;V;Steel;
+#600 ;Klang ;Klang ;V;Steel;
+#601 ;Klinklang ;Klinklang ;V;Steel;
+#602 ;Tynamo ;Tynamo ;V;Electric;
+#603 ;Eelektrik ;Eelektrik ;V;Electric;
+#604 ;Eelektross ;Eelektross ;V;Electric;
+#605 ;Elgyem ;Elgyem ;V;Psychic;
+#606 ;Beheeyem ;Beheeyem ;V;Psychic;
+#607 ;Litwick ;Litwick ;V;Ghost ;Fire
+#608 ;Lampent ;Lampent ;V;Ghost ;Fire
+#609 ;Chandelure ;Chandelure ;V;Ghost ;Fire
+#610 ;Axew ;Axew ;V;Dragon;
+#611 ;Fraxure ;Fraxure ;V;Dragon;
+#612 ;Haxorus ;Haxorus ;V;Dragon;
+#613 ;Cubchoo ;Cubchoo ;V;Ice;
+#614 ;Beartic ;Beartic ;V;Ice;
+#615 ;Cryogonal ;Cryogonal ;V;Ice;
+#616 ;Shelmet ;Shelmet ;V;Bug;
+#617 ;Accelgor ;Accelgor ;V;Bug;
+#618 ;Stunfisk ;Stunfisk ;V;Ground ;Electric
+#618 ;Stunfisk ;Stunfisk ;V;Ground ;Steel
+#619 ;Mienfoo ;Mienfoo ;V;Fighting;
+#620 ;Mienshao ;Mienshao ;V;Fighting;
+#621 ;Druddigon ;Druddigon ;V;Dragon;
+#622 ;Golett ;Golett ;V;Ground ;Ghost
+#623 ;Golurk ;Golurk ;V;Ground ;Ghost
+#624 ;Pawniard ;Pawniard ;V;Dark ;Steel
+#625 ;Bisharp ;Bisharp ;V;Dark ;Steel
+#626 ;Bouffalant ;Bouffalant ;V;Normal;
+#627 ;Rufflet ;Rufflet ;V;Normal ;Flying
+#628 ;Braviary ;Braviary ;V;Normal ;Flying
+#628 ;Braviary ;Braviary ;V;Psychic ;Flying
+#629 ;Vullaby ;Vullaby ;V;Dark ;Flying
+#630 ;Mandibuzz ;Mandibuzz ;V;Dark ;Flying
+#631 ;Heatmor ;Heatmor ;V;Fire;
+#632 ;Durant ;Durant ;V;Bug ;Steel
+#633 ;Deino ;Deino ;V;Dark ;Dragon
+#634 ;Zweilous ;Zweilous ;V;Dark ;Dragon
+#635 ;Hydreigon ;Hydreigon ;V;Dark ;Dragon
+#636 ;Larvesta ;Larvesta ;V;Bug ;Fire
+#637 ;Volcarona ;Volcarona ;V;Bug ;Fire
+#638 ;Cobalion ;Cobalion ;V;Steel ;Fighting
+#639 ;Terrakion ;Terrakion ;V;Rock ;Fighting
+#640 ;Virizion ;Virizion ;V;Grass ;Fighting
+#641 ;Tornadus ;Tornadus ;V;Flying;
+#642 ;Thundurus ;Thundurus ;V;Electric ;Flying
+#643 ;Reshiram ;Reshiram ;V;Dragon ;Fire
+#644 ;Zekrom ;Zekrom ;V;Dragon ;Electric
+#645 ;Landorus ;Landorus ;V;Ground ;Flying
+#646 ;Kyurem ;Kyurem ;V;Dragon ;Ice
+#647 ;Keldeo ;Keldeo ;V;Water ;Fighting
+#648 ;Meloetta ;Meloetta ;V;Normal ;Psychic
+#648 ;Meloetta ;Meloetta ;V;Normal ;Fighting
+#649 ;Genesect ;Genesect ;V;Bug ;Steel
+#650 ;Chespin ;Chespin ;VI;Grass;
+#651 ;Quilladin ;Quilladin ;VI;Grass;
+#652 ;Chesnaught ;Chesnaught ;VI;Grass ;Fighting
+#653 ;Fennekin ;Fennekin ;VI;Fire;
+#654 ;Braixen ;Braixen ;VI;Fire;
+#655 ;Delphox ;Delphox ;VI;Fire ;Psychic
+#656 ;Froakie ;Froakie ;VI;Water;
+#657 ;Frogadier ;Frogadier ;VI;Water;
+#658 ;Greninja ;Greninja ;VI;Water ;Dark
+#659 ;Bunnelby ;Bunnelby ;VI;Normal;
+#660 ;Diggersby ;Diggersby ;VI;Normal ;Ground
+#661 ;Fletchling ;Fletchling ;VI;Normal ;Flying
+#662 ;Fletchinder ;Fletchinder ;VI;Fire ;Flying
+#663 ;Talonflame ;Talonflame ;VI;Fire ;Flying
+#664 ;Scatterbug ;Scatterbug ;VI;Bug;
+#665 ;Spewpa ;Spewpa ;VI;Bug;
+#666 ;Vivillon ;Vivillon ;VI;Bug ;Flying
+#667 ;Litleo ;Litleo ;VI;Fire ;Normal
+#668 ;Pyroar ;Pyroar ;VI;Fire ;Normal
+#669 ;Flabébé ;Flabébé ;VI;Fairy;
+#670 ;Floette ;Floette ;VI;Fairy;
+#671 ;Florges ;Florges ;VI;Fairy;
+#672 ;Skiddo ;Skiddo ;VI;Grass;
+#673 ;Gogoat ;Gogoat ;VI;Grass;
+#674 ;Pancham ;Pancham ;VI;Fighting;
+#675 ;Pangoro ;Pangoro ;VI;Fighting ;Dark
+#676 ;Furfrou ;Furfrou ;VI;Normal;
+#677 ;Espurr ;Espurr ;VI;Psychic;
+#678 ;Meowstic ;Meowstic ;VI;Psychic;
+#679 ;Honedge ;Honedge ;VI;Steel ;Ghost
+#680 ;Doublade ;Doublade ;VI;Steel ;Ghost
+#681 ;Aegislash ;Aegislash ;VI;Steel ;Ghost
+#682 ;Spritzee ;Spritzee ;VI;Fairy;
+#683 ;Aromatisse ;Aromatisse ;VI;Fairy;
+#684 ;Swirlix ;Swirlix ;VI;Fairy;
+#685 ;Slurpuff ;Slurpuff ;VI;Fairy;
+#686 ;Inkay ;Inkay ;VI;Dark ;Psychic
+#687 ;Malamar ;Malamar ;VI;Dark ;Psychic
+#688 ;Binacle ;Binacle ;VI;Rock ;Water
+#689 ;Barbaracle ;Barbaracle ;VI;Rock ;Water
+#690 ;Skrelp ;Skrelp ;VI;Poison ;Water
+#691 ;Dragalge ;Dragalge ;VI;Poison ;Dragon
+#692 ;Clauncher ;Clauncher ;VI;Water;
+#693 ;Clawitzer ;Clawitzer ;VI;Water;
+#694 ;Helioptile ;Helioptile ;VI;Electric ;Normal
+#695 ;Heliolisk ;Heliolisk ;VI;Electric ;Normal
+#696 ;Tyrunt ;Tyrunt ;VI;Rock ;Dragon
+#697 ;Tyrantrum ;Tyrantrum ;VI;Rock ;Dragon
+#698 ;Amaura ;Amaura ;VI;Rock ;Ice
+#699 ;Aurorus ;Aurorus ;VI;Rock ;Ice
+#700 ;Sylveon ;Sylveon ;VI;Fairy;
+#701 ;Hawlucha ;Hawlucha ;VI;Fighting ;Flying
+#702 ;Dedenne ;Dedenne ;VI;Electric ;Fairy
+#703 ;Carbink ;Carbink ;VI;Rock ;Fairy
+#704 ;Goomy ;Goomy ;VI;Dragon;
+#705 ;Sliggoo ;Sliggoo ;VI;Dragon;
+#705 ;Sliggoo ;Sliggoo ;VI;Steel ;Dragon
+#706 ;Goodra ;Goodra ;VI;Dragon;
+#706 ;Goodra ;Goodra ;VI;Steel ;Dragon
+#707 ;Klefki ;Klefki ;VI;Steel ;Fairy
+#708 ;Phantump ;Phantump ;VI;Ghost ;Grass
+#709 ;Trevenant ;Trevenant ;VI;Ghost ;Grass
+#710 ;Pumpkaboo ;Pumpkaboo ;VI;Ghost ;Grass
+#711 ;Gourgeist ;Gourgeist ;VI;Ghost ;Grass
+#712 ;Bergmite ;Bergmite ;VI;Ice;
+#713 ;Avalugg ;Avalugg ;VI;Ice;
+#713 ;Avalugg ;Avalugg ;VI;Ice ;Rock
+#714 ;Noibat ;Noibat ;VI;Flying ;Dragon
+#715 ;Noivern ;Noivern ;VI;Flying ;Dragon
+#716 ;Xerneas ;Xerneas ;VI;Fairy;
+#717 ;Yveltal ;Yveltal ;VI;Dark ;Flying
+#718 ;Zygarde ;Zygarde ;VI;Dragon ;Ground
+#719 ;Diancie ;Diancie ;VI;Rock ;Fairy
+#720 ;Hoopa ;Hoopa ;VI;Psychic ;Ghost
+#720 ;Hoopa ;Hoopa ;VI;Psychic ;Dark
+#721 ;Volcanion ;Volcanion ;VI;Fire ;Water
+#722 ;Rowlet ;Rowlet ;VII;Grass ;Flying
+#723 ;Dartrix ;Dartrix ;VII;Grass ;Flying
+#724 ;Decidueye ;Decidueye ;VII;Grass ;Ghost
+#724 ;Decidueye ;Decidueye ;VII;Grass ;Fighting
+#725 ;Litten ;Litten ;VII;Fire;
+#726 ;Torracat ;Torracat ;VII;Fire;
+#727 ;Incineroar ;Incineroar ;VII;Fire ;Dark
+#728 ;Popplio ;Popplio ;VII;Water;
+#729 ;Brionne ;Brionne ;VII;Water;
+#730 ;Primarina ;Primarina ;VII;Water ;Fairy
+#731 ;Pikipek ;Pikipek ;VII;Normal ;Flying
+#732 ;Trumbeak ;Trumbeak ;VII;Normal ;Flying
+#733 ;Toucannon ;Toucannon ;VII;Normal ;Flying
+#734 ;Yungoos ;Yungoos ;VII;Normal;
+#735 ;Gumshoos ;Gumshoos ;VII;Normal;
+#736 ;Grubbin ;Grubbin ;VII;Bug;
+#737 ;Charjabug ;Charjabug ;VII;Bug ;Electric
+#738 ;Vikavolt ;Vikavolt ;VII;Bug ;Electric
+#739 ;Crabrawler ;Crabrawler ;VII;Fighting;
+#740 ;Crabominable ;Crabominable ;VII;Fighting ;Ice
+#741 ;Oricorio ;Oricorio ;VII;Fire ;Flying
+#741 ;Oricorio ;Oricorio ;VII;Electric ;Flying
+#741 ;Oricorio ;Oricorio ;VII;Psychic ;Flying
+#741 ;Oricorio ;Oricorio ;VII;Ghost ;Flying
+#742 ;Cutiefly ;Cutiefly ;VII;Bug ;Fairy
+#743 ;Ribombee ;Ribombee ;VII;Bug ;Fairy
+#744 ;Rockruff ;Rockruff ;VII;Rock;
+#745 ;Lycanroc ;Lycanroc ;VII;Rock;
+#746 ;Wishiwashi ;Wishiwashi ;VII;Water;
+#747 ;Mareanie ;Mareanie ;VII;Poison ;Water
+#748 ;Toxapex ;Toxapex ;VII;Poison ;Water
+#749 ;Mudbray ;Mudbray ;VII;Ground;
+#750 ;Mudsdale ;Mudsdale ;VII;Ground;
+#751 ;Dewpider ;Dewpider ;VII;Water ;Bug
+#752 ;Araquanid ;Araquanid ;VII;Water ;Bug
+#753 ;Fomantis ;Fomantis ;VII;Grass;
+#754 ;Lurantis ;Lurantis ;VII;Grass;
+#755 ;Morelull ;Morelull ;VII;Grass ;Fairy
+#756 ;Shiinotic ;Shiinotic ;VII;Grass ;Fairy
+#757 ;Salandit ;Salandit ;VII;Poison ;Fire
+#758 ;Salazzle ;Salazzle ;VII;Poison ;Fire
+#759 ;Stufful ;Stufful ;VII;Normal ;Fighting
+#760 ;Bewear ;Bewear ;VII;Normal ;Fighting
+#761 ;Bounsweet ;Bounsweet ;VII;Grass;
+#762 ;Steenee ;Steenee ;VII;Grass;
+#763 ;Tsareena ;Tsareena ;VII;Grass;
+#764 ;Comfey ;Comfey ;VII;Fairy;
+#765 ;Oranguru ;Oranguru ;VII;Normal ;Psychic
+#766 ;Passimian ;Passimian ;VII;Fighting;
+#767 ;Wimpod ;Wimpod ;VII;Bug ;Water
+#768 ;Golisopod ;Golisopod ;VII;Bug ;Water
+#769 ;Sandygast ;Sandygast ;VII;Ghost ;Ground
+#770 ;Palossand ;Palossand ;VII;Ghost ;Ground
+#771 ;Pyukumuku ;Pyukumuku ;VII;Water;
+#772 ;Type: Null ;Type: Null ;VII;Normal;
+#773 ;Silvally ;Silvally ;VII;Normal;
+#774 ;Minior ;Minior ;VII;Rock ;Flying
+#775 ;Komala ;Komala ;VII;Normal;
+#776 ;Turtonator ;Turtonator ;VII;Fire ;Dragon
+#777 ;Togedemaru ;Togedemaru ;VII;Electric ;Steel
+#778 ;Mimikyu ;Mimikyu ;VII;Ghost ;Fairy
+#779 ;Bruxish ;Bruxish ;VII;Water ;Psychic
+#780 ;Drampa ;Drampa ;VII;Normal ;Dragon
+#781 ;Dhelmise ;Dhelmise ;VII;Ghost ;Grass
+#782 ;Jangmo-o ;Jangmo-o ;VII;Dragon;
+#783 ;Hakamo-o ;Hakamo-o ;VII;Dragon ;Fighting
+#784 ;Kommo-o ;Kommo-o ;VII;Dragon ;Fighting
+#785 ;Tapu Koko ;Tapu Koko ;VII;Electric ;Fairy
+#786 ;Tapu Lele ;Tapu Lele ;VII;Psychic ;Fairy
+#787 ;Tapu Bulu ;Tapu Bulu ;VII;Grass ;Fairy
+#788 ;Tapu Fini ;Tapu Fini ;VII;Water ;Fairy
+#789 ;Cosmog ;Cosmog ;VII;Psychic;
+#790 ;Cosmoem ;Cosmoem ;VII;Psychic;
+#791 ;Solgaleo ;Solgaleo ;VII;Psychic ;Steel
+#792 ;Lunala ;Lunala ;VII;Psychic ;Ghost
+#793 ;Nihilego ;Nihilego ;VII;Rock ;Poison
+#794 ;Buzzwole ;Buzzwole ;VII;Bug ;Fighting
+#795 ;Pheromosa ;Pheromosa ;VII;Bug ;Fighting
+#796 ;Xurkitree ;Xurkitree ;VII;Electric;
+#797 ;Celesteela ;Celesteela ;VII;Steel ;Flying
+#798 ;Kartana ;Kartana ;VII;Grass ;Steel
+#799 ;Guzzlord ;Guzzlord ;VII;Dark ;Dragon
+#800 ;Necrozma ;Necrozma ;VII;Psychic;
+#801 ;Magearna ;Magearna ;VII;Steel ;Fairy
+#802 ;Marshadow ;Marshadow ;VII;Fighting ;Ghost
+#803 ;Poipole ;Poipole ;VII;Poison;
+#804 ;Naganadel ;Naganadel ;VII;Poison ;Dragon
+#805 ;Stakataka ;Stakataka ;VII;Rock ;Steel
+#806 ;Blacephalon ;Blacephalon ;VII;Fire ;Ghost
+#807 ;Zeraora ;Zeraora ;VII;Electric;
+#808 ;Meltan ;Meltan ;VII;Steel;
+#809 ;Melmetal ;Melmetal ;VII;Steel;
+#810 ;Grookey ;Grookey ;VIII;Grass;
+#811 ;Thwackey ;Thwackey ;VIII;Grass;
+#812 ;Rillaboom ;Rillaboom ;VIII;Grass;
+#813 ;Scorbunny ;Scorbunny ;VIII;Fire;
+#814 ;Raboot ;Raboot ;VIII;Fire;
+#815 ;Cinderace ;Cinderace ;VIII;Fire;
+#816 ;Sobble ;Sobble ;VIII;Water;
+#817 ;Drizzile ;Drizzile ;VIII;Water;
+#818 ;Inteleon ;Inteleon ;VIII;Water;
+#819 ;Skwovet ;Skwovet ;VIII;Normal;
+#820 ;Greedent ;Greedent ;VIII;Normal;
+#821 ;Rookidee ;Rookidee ;VIII;Flying;
+#822 ;Corvisquire ;Corvisquire ;VIII;Flying;
+#823 ;Corviknight ;Corviknight ;VIII;Flying ;Steel
+#824 ;Blipbug ;Blipbug ;VIII;Bug;
+#825 ;Dottler ;Dottler ;VIII;Bug ;Psychic
+#826 ;Orbeetle ;Orbeetle ;VIII;Bug ;Psychic
+#827 ;Nickit ;Nickit ;VIII;Dark;
+#828 ;Thievul ;Thievul ;VIII;Dark;
+#829 ;Gossifleur ;Gossifleur ;VIII;Grass;
+#830 ;Eldegoss ;Eldegoss ;VIII;Grass;
+#831 ;Wooloo ;Wooloo ;VIII;Normal;
+#832 ;Dubwool ;Dubwool ;VIII;Normal;
+#833 ;Chewtle ;Chewtle ;VIII;Water;
+#834 ;Drednaw ;Drednaw ;VIII;Water ;Rock
+#835 ;Yamper ;Yamper ;VIII;Electric;
+#836 ;Boltund ;Boltund ;VIII;Electric;
+#837 ;Rolycoly ;Rolycoly ;VIII;Rock;
+#838 ;Carkol ;Carkol ;VIII;Rock ;Fire
+#839 ;Coalossal ;Coalossal ;VIII;Rock ;Fire
+#840 ;Applin ;Applin ;VIII;Grass ;Dragon
+#841 ;Flapple ;Flapple ;VIII;Grass ;Dragon
+#842 ;Appletun ;Appletun ;VIII;Grass ;Dragon
+#843 ;Silicobra ;Silicobra ;VIII;Ground;
+#844 ;Sandaconda ;Sandaconda ;VIII;Ground;
+#845 ;Cramorant ;Cramorant ;VIII;Flying ;Water
+#846 ;Arrokuda ;Arrokuda ;VIII;Water;
+#847 ;Barraskewda ;Barraskewda ;VIII;Water;
+#848 ;Toxel ;Toxel ;VIII;Electric ;Poison
+#849 ;Toxtricity ;Toxtricity ;VIII;Electric ;Poison
+#850 ;Sizzlipede ;Sizzlipede ;VIII;Fire ;Bug
+#851 ;Centiskorch ;Centiskorch ;VIII;Fire ;Bug
+#852 ;Clobbopus ;Clobbopus ;VIII;Fighting;
+#853 ;Grapploct ;Grapploct ;VIII;Fighting;
+#854 ;Sinistea ;Sinistea ;VIII;Ghost;
+#855 ;Polteageist ;Polteageist ;VIII;Ghost;
+#856 ;Hatenna ;Hatenna ;VIII;Psychic;
+#857 ;Hattrem ;Hattrem ;VIII;Psychic;
+#858 ;Hatterene ;Hatterene ;VIII;Psychic ;Fairy
+#859 ;Impidimp ;Impidimp ;VIII;Dark ;Fairy
+#860 ;Morgrem ;Morgrem ;VIII;Dark ;Fairy
+#861 ;Grimmsnarl ;Grimmsnarl ;VIII;Dark ;Fairy
+#862 ;Obstagoon ;Obstagoon ;VIII;Dark ;Normal
+#863 ;Perrserker ;Perrserker ;VIII;Steel;
+#864 ;Cursola ;Cursola ;VIII;Ghost;
+#865 ;Sirfetch'd ;Sirfetch'd ;VIII;Fighting;
+#866 ;Mr. Rime ;Mr. Rime ;VIII;Ice ;Psychic
+#867 ;Runerigus ;Runerigus ;VIII;Ground ;Ghost
+#868 ;Milcery ;Milcery ;VIII;Fairy;
+#869 ;Alcremie ;Alcremie ;VIII;Fairy;
+#870 ;Falinks ;Falinks ;VIII;Fighting;
+#871 ;Pincurchin ;Pincurchin ;VIII;Electric;
+#872 ;Snom ;Snom ;VIII;Ice ;Bug
+#873 ;Frosmoth ;Frosmoth ;VIII;Ice ;Bug
+#874 ;Stonjourner ;Stonjourner ;VIII;Rock;
+#875 ;Eiscue ;Eiscue ;VIII;Ice;
+#876 ;Indeedee ;Indeedee ;VIII;Psychic ;Normal
+#877 ;Morpeko ;Morpeko ;VIII;Electric ;Dark
+#878 ;Cufant ;Cufant ;VIII;Steel;
+#879 ;Copperajah ;Copperajah ;VIII;Steel;
+#880 ;Dracozolt ;Dracozolt ;VIII;Electric ;Dragon
+#881 ;Arctozolt ;Arctozolt ;VIII;Electric ;Ice
+#882 ;Dracovish ;Dracovish ;VIII;Water ;Dragon
+#883 ;Arctovish ;Arctovish ;VIII;Water ;Ice
+#884 ;Duraludon ;Duraludon ;VIII;Steel ;Dragon
+#885 ;Dreepy ;Dreepy ;VIII;Dragon ;Ghost
+#886 ;Drakloak ;Drakloak ;VIII;Dragon ;Ghost
+#887 ;Dragapult ;Dragapult ;VIII;Dragon ;Ghost
+#888 ;Zacian ;Zacian ;VIII;Fairy;
+#888 ;Zacian ;Zacian ;VIII;Fairy ;Steel
+#889 ;Zamazenta ;Zamazenta ;VIII;Fighting;
+#889 ;Zamazenta ;Zamazenta ;VIII;Fighting ;Steel
+#890 ;Eternatus ;Eternatus ;VIII;Poison ;Dragon
+#891 ;Kubfu ;Kubfu ;VIII;Fighting;
+#892 ;Urshifu ;Urshifu ;VIII;Fighting ;Dark
+#892 ;Urshifu ;Urshifu ;VIII;Fighting ;Water
+#893 ;Zarude ;Zarude ;VIII;Dark ;Grass
+#894 ;Regieleki ;Regieleki ;VIII;Electric;
+#895 ;Regidrago ;Regidrago ;VIII;Dragon;
+#896 ;Glastrier ;Glastrier ;VIII;Ice;
+#897 ;Spectrier ;Spectrier ;VIII;Ghost;
+#898 ;Calyrex ;Calyrex ;VIII;Psychic ;Grass
+#898 ;Calyrex ;Calyrex ;VIII;Psychic ;Ice
+#898 ;Calyrex ;Calyrex ;VIII;Psychic ;Ghost
+#899 ;Wyrdeer ;Wyrdeer ;VIII;Normal ;Psychic
+#900 ;Kleavor ;Kleavor ;VIII;Bug ;Rock
+#901 ;Ursaluna ;Ursaluna ;VIII;Ground ;Normal
+#902 ;Basculegion ;Basculegion ;VIII;Water ;Ghost
+#903 ;Sneasler ;Sneasler ;VIII;Fighting ;Poison
+#904 ;Overqwil ;Overqwil ;VIII;Dark ;Poison
+#905 ;Enamorus ;Enamorus ;VIII;Fairy ;Flying
