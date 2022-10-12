@@ -9,7 +9,6 @@ import ctypes
 from selenium.webdriver.common.action_chains import ActionChains
 from selenium.webdriver.common.keys import Keys
 
-
 def get_config_values(config_path):
     with open(config_path) as f:
         lines = f.readlines()
@@ -152,10 +151,11 @@ def main():
 
                 if item_found is True:
                     search_id_txt = search_id_element.text
-                    search_id_split = search_id_txt.split(":")
-                    search_id = search_id_split[1]
-                    print_button.click()
-                    time.sleep(4)
+                    if search_id_txt != '':
+                        search_id_split = search_id_txt.split(":")
+                        search_id = search_id_split[1]
+                        print_button.click()
+                        time.sleep(4)
                     #handle print window
                     winHandles = driver.window_handles
                     if len(winHandles) > 1:
@@ -173,10 +173,11 @@ def main():
 
                 wb.worksheets[0].cell(ii, search_column).value = search_id.replace(" ", "")
                 wb.worksheets[0].cell(ii, search_column+1).value = status_msg
+                print(str(acc_input_val) + ", excel row = " + str(ii) + ", " + status_msg)
             ii += 1
     except Exception as e:
         print(str(e))
-        wb.worksheets[0].cell(ii, search_column + 1).value = str(e)
+        wb.worksheets[0].cell(ii, search_column + 1).value = str(e) + ", " + str(acc_input_val) + ", excel row = " + str(ii) + ", " + status_msg
         print("saving Excel")
         wb.save(excel_path)
         wb.close()
