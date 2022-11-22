@@ -35,7 +35,7 @@ class dqnetwork(nn.Module):
         self.load_state_dict(T.load('dqn_model.pt'))
 
 class Agent(object):
-    def __init__(self, gamma, epsilon, lr, batch_size, input_dims, n_actions, epsilon_dec=5e-4,
+    def __init__(self, gamma, epsilon, lr, batch_size, input_dims, n_actions, epsilon_dec=1e-5,
                     epsilon_end=0.01, mem_size=1000000):
         self.action_space = [i for i in range(n_actions)]
         self.gamma = gamma

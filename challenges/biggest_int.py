@@ -17,7 +17,7 @@ def genNumber(itx,numx,i_list):
                 numx = numx[:(len(numx)-len(tmpval))]
 
 def main():
-    arr = np.array([5,1,8,9],dtype=object)
+    arr = np.array([9, 5, 3, 52, 521], dtype=object)
 
     genNumber(0,"",arr)
 
